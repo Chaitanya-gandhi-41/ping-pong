@@ -3,6 +3,10 @@
 ## Description
 JavaScript Ping Pong is a simple web-based game built using HTML, CSS, and JavaScript. The objective of the game is to bounce a ball back and forth between two paddles while trying to score points against your opponent. The game is based on the classic Pong game from the 1970s, but with a modern twist.
 
+<p align="center">
+  <img src="pingpong.png" alt="pingpong" width="400" />
+</p>
+
 ## Demo
 You can play the game live here: 
 <a href="https://aaeb-pingpong.netlify.app/">JavaScript Ping Pong</a>
